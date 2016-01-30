@@ -1,0 +1,14 @@
+**************************
+* Without Combiner class *
+**************************
+1. map() function: 5 times
+2. reduce() function: 11 times
+
+
+
+***********************
+* With Combiner class *
+***********************
+1. map() function: 5 times
+2. reduce() function: 24 times
+
